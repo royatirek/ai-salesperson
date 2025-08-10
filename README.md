@@ -25,7 +25,7 @@ To use this as an MCP server with Claude, you can use a configuration like the f
 
 ## Important Note on Authentication
 
-To use this service, you must provide your own cookie in the `FeignClientConfiguration.java` file. This is required to authenticate with the external "Hopscotch" service.
+To use this service, you must provide your own cookie in the `FeignClientConfiguration.java` file. This is required to authenticate with the external "Hopscotch" website.
 
 ## Core Functionalities
 
