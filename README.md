@@ -4,6 +4,10 @@ It uses a Spring AI MCP server to help an LLM (like Claude) connect with the Hop
 
 This is a Gradle project.
 
+## Demo
+
+You can see a video of the AI Salesperson in action here: [https://www.youtube.com/watch?v=YIT0DIJP3aU](https://www.youtube.com/watch?v=YIT0DIJP3aU)
+
 ## Integration with Claude
 
 To use this as an MCP server with Claude, you can use a configuration like the following:
@@ -31,7 +35,7 @@ To use this service, you must provide your own cookie in the `FeignClientConfigu
 
 *   **Product Search**: Helps customers find products.
 *   **Order Placement**: Allows customers to order products.
-*   **Cart Management**: Allows adding items to a customer's shopping cart.
+*   **Cart Management**: Allows adding items to a customer'''s shopping cart.
 *   **Address Selection**: Allows selecting a shipping address for an order.
 
 ## Technologies Used
